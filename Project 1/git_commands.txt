@@ -1,0 +1,9 @@
+Commands used:
+Git clone
+Git pull
+Git add
+Git commit
+Git push
+Git branch
+Git checkout
+Git diff
